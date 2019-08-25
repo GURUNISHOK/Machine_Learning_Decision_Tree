@@ -15,7 +15,7 @@ The seven types are:
 
 This repository is working on a csv file (dataset.csv) which is mainly on the training purpose.
 For better training purposes, The dataset was splitted into a 80-20% train-test dataset with the k-fold cross validation in order 
-to build our model. This assignment we will experiment with the adaboost classification algorithm using a base learner like
+to build our model. In this repository, we will experiment with the adaboost classification algorithm using a base learner like
 logistic regression. We will not use an ensemble learner here. 
 
 I have divided the program into various tasks, which starts by running the adaboost algorithm on the given dataset 
